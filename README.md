@@ -1,1 +1,1 @@
-[Try it out here](https://debarshi11.github.io/Password_Generator/)
+[Try it out here](https://app.netlify.com/sites/magenta-dolphin-338e73/deploys/6423b6511492ba41f2f69312)
