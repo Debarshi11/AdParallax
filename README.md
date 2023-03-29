@@ -1,1 +1,1 @@
-[Try it out here](https://app.netlify.com/sites/magenta-dolphin-338e73/deploys/6423b6511492ba41f2f69312)
+[Try it out here](https://magenta-dolphin-338e73.netlify.app)
